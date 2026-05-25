@@ -1,0 +1,8 @@
+{
+  "name": "Shikha Shalini Portfolio",
+  "description": "A dark-themed personal portfolio for a Full Stack Developer & UI/UX Designer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
